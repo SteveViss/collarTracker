@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-*.rds
-=======
 # History files
 .Rhistory
 .Rapp.history
@@ -40,4 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
->>>>>>> f83c4164add4dae11df878423dcc880715e20dc7
+
+# RDS
+*.rds
